@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm M Wahaj Khalil</h1>
 <h3 align="center">An aspiring developer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://www.vecteezy.com/video/17202411-animated-online-coding-course-programming-language-loop-flat-2d-character-hd-video-footage-colorful-isolated-animation-on-white-background-with-alpha-channel-transparency-for-website-social-media")
 - 💬 Ask me about **Java, Python, Html and Cpp**
 
 - 📫 How to reach me **mwahajkhalil@gmail.com**
