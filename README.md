@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm M Wahaj Khalil</h1>
 <h3 align="center">An aspiring developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/young-woman-writes-code-on-computer-1731157933">
 - 💬 Ask me about **Java, Python, Html and Cpp**
 
 - 📫 How to reach me **mwahajkhalil@gmail.com**
